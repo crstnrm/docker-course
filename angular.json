@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "docker-course"
+    }
+  },
+  "defaultProject": "docker-course",
+  "cli": {
+    "analytics": false
+  }
 }
